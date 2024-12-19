@@ -18,7 +18,8 @@
 
   <!-- prebuilt kernel -->
   <project name="MrSuperBuddy/android_device_samsung_espresso3g-kernel" path="device/samsung/espresso3g-kernel" remote="github" revision="3.4/common" />
-
+  <project name="MrSuperBuddy/android_device_samsung_espressowifi-kernel" path="device/samsung/espressowifi-kernel" remote="github" revision="3.4/common" />
+  
   <!-- Patches -->
   <remove-project path="system/core" name="LineageOS/android_system_core" groups="pdk" />
   <project name="MightyM17/android_system_core" path="system/core" remote="github" revision="lineage-16.0" />
