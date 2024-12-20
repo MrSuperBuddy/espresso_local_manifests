@@ -10,7 +10,6 @@
 
   <!-- Device Trees -->
   <project name="MrSuperBuddy/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="aosp-9.0" />
-  <project name="MightyM17/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="aosp-9.0" />
   
   <!-- Galaxy Tab 2 Common Repos -->
   <project name="MightyM17/android_device_samsung_espresso" path="device/samsung/espresso" remote="github" revision="aosp-9.0" />
