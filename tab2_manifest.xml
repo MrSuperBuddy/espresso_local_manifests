@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="github"
-           fetch="ssh://git@github.com/" />
+           fetch="https://github.com/" />
 
   <!-- Device Trees -->
   <project name="MightyM17/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="aosp-9.0" />
